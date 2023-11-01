@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Solution(object):
     def sortTheStudents(self, score, k):
         """
@@ -14,3 +15,21 @@ class Solution(object):
         return score
 
             
+=======
+class Solution(object):
+    def sortTheStudents(self, score, k):
+        """
+        :type score: List[List[int]]
+        :type k: int
+        :rtype: List[List[int]]
+        """
+        for i in range (len(score)-1):
+            for j in range(i+1,len(score)):
+                if score[i][k] <score[j][k]:
+                    c=score[i]
+                    score[i]=score[j]
+                    score[j]=c
+        return score
+
+            
+>>>>>>> c7b4b56f48450f4fdaa84bb6d24ce62538dd75c7
