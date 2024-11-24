@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">Hi 👋, I'm Sakthiram</h1>
 <h3 align="center">A passionate software engineering from India</h3>
 <img ali="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=zdaSpxoP&id=1F5FD2277B3602C80E18360F10DFCEB592210C76&thid=OIP.zdaSpxoPHv8DaosKuhtu5wHaGE&mediaurl=https%3a%2f%2fstatic.vecteezy.com%2fsystem%2fresources%2fpreviews%2f000%2f518%2f208%2foriginal%2fman-working-with-computer-bright-colorful-vector-illustration.jpg&exph=4097&expw=5000&q=Cartoon+of+People+Working+On+Computer&simid=608023161829419536&FORM=IRPRST&ck=861DEA91D32DFB907B756D3441E2BB9C&selectedIndex=2&ajaxhist=0&ajaxserp=0"/></p>
